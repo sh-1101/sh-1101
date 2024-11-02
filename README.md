@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Hiroki Sugiyama</h1>
 
-<!--
-**sh-1101/sh-1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>🌱 My Skills</h3>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,git,github,ts,nestjs,php&perline=6&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>📈 Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-1101&show_icons=true&locale=en&layout=compact" alt="sh-1101" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sh-1101&show_icons=true&locale=en" alt="sh-1101" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-1101&" alt="sh-1101" />
+  </p>
+</div>
