@@ -10,9 +10,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-1101&show_icons=true&locale=en&layout=compact" alt="sh-1101" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sh-1101&show_icons=true&locale=en" alt="sh-1101" />
-  </p>
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-1101&" alt="sh-1101" />
   </p>
 </div>
